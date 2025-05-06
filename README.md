@@ -1,9 +1,10 @@
-# README: or, an about
+# an ABOUT
 Writing to learn, thanks for joining me. 
 
-Subjects of interest include maps and cartography, GIS and spatial analysis; linguistics with particular interest in corpus linguistics and West Asian languages; and issues of human rights and conflict. 
+Subjects of interest include maps and cartography, GIS and spatial analysis; linguistics with particular interest in corpus linguistics and West Asian languages; and issues of human rights and conflict. Currently working on learning Python to mess around with some of the aforementioned subjects.
 
-The former seem more conducive to this platform and the types of skills that might be interesting to write through, but I also like shooting archery; growing and foraging and crafting with plants; writing; various arts and crafts; and et cetera and I might try to write and photograph through some of those things too.
+[![roadmap.sh](https://roadmap.sh/card/wide/68197c563da6ef58480fceda?variant=dark&roadmaps=python)](https://roadmap.sh)
 
-POSTS
+# the POSTS
 - [An Intro](post1.md)
+
