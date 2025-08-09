@@ -7,4 +7,4 @@ Subjects of interest include maps and cartography, GIS and spatial analysis; lin
 
 # the POSTS
 - [An Intro](post1.md)
-
+- [Geolocation - OSINT Exercise #001 by Sofia Santos](post2.md)
