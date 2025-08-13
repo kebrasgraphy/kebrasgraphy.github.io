@@ -6,6 +6,5 @@ Subjects of interest include maps and cartography, GIS and spatial analysis; lin
 [![roadmap.sh](https://roadmap.sh/card/wide/68197c563da6ef58480fceda?variant=dark&roadmaps=python)](https://roadmap.sh)
 
 # the POSTS
-- [An Intro](post1.md)
 - [A First Geolocation - OSINT Exercise #001 by Sofia Santos](post2.md)
 - [Geolocation of a Train Station - OSINT Exercise #002 by Sofia Santos](post3.md)
