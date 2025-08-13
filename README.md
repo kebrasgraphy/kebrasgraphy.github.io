@@ -8,3 +8,4 @@ Subjects of interest include maps and cartography, GIS and spatial analysis; lin
 # the POSTS
 - [A First Geolocation - OSINT Exercise #001 by Sofia Santos](post2.md)
 - [Geolocation of a Train Station - OSINT Exercise #002 by Sofia Santos](post3.md)
+- [Geolocation in Ankara, Turkey - OSINT Exercise #003 by Sofia Santos](post4.md)
